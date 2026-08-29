@@ -2,7 +2,8 @@
 
 An interactive Excel dashboard that answers one question fast: **what should this job actually pay?** Filter by job title, country, and employment type to see median salary, job volume, and top hiring platforms update in real time.
 
-<img width="2000" height="1474" alt="image" src="https://github.com/user-attachments/assets/39c18a6d-b716-40b6-b447-8e64041c3a35" />
+<img width="1715" height="733" alt="AD1CFA3A-9F24-48AE-9BE0-FF11EBFD36EF_1_201_a" src="https://github.com/user-attachments/assets/1015ce1a-33f2-4968-b0ee-2efd20fe9881" />
+
 
 
 ## Overview
