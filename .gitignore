@@ -1,0 +1,5 @@
+.DS_Store
+~$*.xlsx
+*.tmp
+data_jobs_salary_all.xlsx
+Salary Dashboard.xlsx
