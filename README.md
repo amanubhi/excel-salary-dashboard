@@ -59,6 +59,8 @@ This was built entirely with formulas — deliberately, to force fluency with th
 
 Built as Project 1 of [Luke Barousse's Data Analyst course](https://www.lukebarousse.com/). Dataset and dashboard concept from the course; implementation and the analysis in Key Insights are my own.
 
+**A note on AI assistance:** Claude (Anthropic) shows up as a co-author on some commits in this repo's history — that's from packaging and publishing it: README structure, verifying the workbook's formulas, computing the dataset-wide statistics in Key Insights, and the git/GitHub setup. The Excel dashboard itself — the dynamic array formulas, chart design, and dropdown-driven filtering — was built by hand as part of the course.
+
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/amanubhi1/
