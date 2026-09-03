@@ -61,5 +61,5 @@ Built as Project 1 of [Luke Barousse's Data Analyst course](https://www.lukebaro
 
 ## Connect
 
-- LinkedIn: [add your link]
-- Portfolio: [add your link]
+- LinkedIn: https://www.linkedin.com/in/amanubhi1/
+- Portfolio: https://github.com/amanubhi/
